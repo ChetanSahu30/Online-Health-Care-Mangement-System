@@ -1,1 +1,1 @@
-# Online-Health-Care-Mangement-System
+# KNN_HealthCare-Hospital-Management-System
